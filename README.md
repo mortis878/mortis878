@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @mortis878
-- 👀 I’m interested in all things art related; story writing, drawing, games, especially horror and romance genres
-- 
+- ❤️ Hello, I’m @mortis878, a person looking forward to start their future in game development 
+- 👀 I’m interested in all things art related; singing, dancing, story-writing, drawing, DIY projects, games, especially horror and romance genres!
+- 💡 Actively brainstorming ideas for new projects and stories
 - 🌱 I’m currently learning digital art and Blender, looking forward to start programming
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: agga878@gmail.com 
 
 <!---
